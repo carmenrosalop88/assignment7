@@ -1,7 +1,7 @@
 # assignment7
 
-###COURSE POLICIES
+###How does the U.S compare to other nations when it comes to gun deaths?
 
-**PARTNER POLICY**
+**Comparative Chart With Nations Worldwide**
 
-You will find a parter, or a triplet in this course and have some time afforded to workshop your ideas, your narratives and your code with them during peer review. They will give me feedback that contributes to your grade; so pair well with your peers.
+This graph shows the large number of deaths by gun fatalities, both due to suicide and homicide in countries that are part of NATO. 
