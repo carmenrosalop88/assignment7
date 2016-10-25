@@ -1,4 +1,4 @@
-# assignment7
+# Assignment 7
 
 ###How does the U.S compare to other nations when it comes to gun deaths?
 
